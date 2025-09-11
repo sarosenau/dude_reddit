@@ -31,3 +31,6 @@
   - can use data dumps from academictorrents, but creates a bit of an ethical landmine to use torrented data
   - might need to look into it more
 - if we don't need large amounts of data, PRAW is probably fine
+
+## 9/11/25
+-
